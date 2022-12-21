@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "ternary": "nodemon ./ternary.js",
     "arrayToObject": "nodemon ./arrayToObject.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
