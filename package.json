@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ternary": "nodemon ./ternary.js",
-    "arrayToObject": "nodemon ./arrayToObject.js",
+    "ternary": "nodemon ./hacks/ternary.js",
+    "arrayToObject": "nodemon ./hacks/arrayToObject.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
