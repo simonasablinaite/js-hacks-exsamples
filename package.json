@@ -1,0 +1,16 @@
+{
+  "name": "js-hacks-exsamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "arrayToObject": "nodemon ./arrayToObject.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simona",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
